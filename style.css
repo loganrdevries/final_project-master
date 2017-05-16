@@ -1,0 +1,31 @@
+button {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
+
+h1 {
+    
+  color: white;
+  font-size: 50px;
+font-family:'Space Mono',monospace;  
+  text-align:center;
+}
+
+li{
+  color: white;
+  font-size:20px;
+ font-family:'Space Mono',monospace;
+  text-align:center;
+}
+
+body {
+    background-image: url("http://www.games-arcade.net/images/2013/11/arcade-game-background.jpg");
+}
+
+svg {
+   background-image: url("https://ak5.picdn.net/shutterstock/videos/15389950/thumb/10.jpg");
+  background-size: 100%;
+  display: block;
+  margin: auto;
+}
